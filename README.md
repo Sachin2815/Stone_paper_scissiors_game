@@ -1,1 +1,2 @@
-# Stone_paper_scissiors_live_game
+# Stone_paper_scissiors_game by using python
+
